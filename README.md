@@ -1,4 +1,4 @@
-# 5.VERIFICATION-OF-NORTON-S-THEOREM
+5.VERIFICATION-OF-NORTON-S-THEOREM
 
 **AIM:**
 
@@ -23,21 +23,9 @@ It is the short-circuit current through the load terminals. i.e., IN = Isc
 Norton’s Resistance, RN:It is the look-back resistance across the load terminals when all the sources are replaced by their internal resistances. An ideal voltage source is replaced by short- circuiting as its internal resistance is zero. An ideal current source is replaced by open- circuiting as its internal resistance is infinity.
  
 **CIRCUIT DIAGRAM: VERIFICATION OF NORTON’S THEOREM**
-
-**To measure IL**
-
-
-**To measure RTh or RN**
+![IMG_20251023_180724](https://github.com/user-attachments/assets/c1ac610e-8102-41e9-b5c7-e4a2030d13a5)
 
 
-
-**To measure IN or Isc**
-
- 
-**Thevenin’s equivalent circuit**
-
-
-**Norton’s equivalent circuit**
 
 
 **PROCEDURE:**
@@ -69,37 +57,23 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
    	Norton’s Theorem IL = IN * RN / ( RN + RL )
 
 12.	Theoretically verify the Norton’s theorem.
-
-**TABULAR COLUMN: 1**
-To measure I L
-
-Vi (volts)	IL (amps)
-
-**TABULAR COLUMN:2**
-
-To measure RTh or RN
-
-Vi (volts)	RTh (Ω)
-
-
-**TABULAR COLUMN:3**
-
-To measure IN or Isc
-
-Vi (volts)	IN (amps)
 	
-**MODEL CALCULATION:**
+**THEORETICAL CALCULATION:**
 
-Practical value of IL (from tabulation 1) =2.3mA
+![IMG_20251023_180805](https://github.com/user-attachments/assets/c4b8e217-0f83-4ebb-93f7-241807d8465a)
+![IMG_20251023_180815](https://github.com/user-attachments/assets/8a36ca78-b5a0-474c-826f-d444b49988cd)
+![IMG_20251023_180835](https://github.com/user-attachments/assets/a0581ca0-0883-444d-94f0-af479424ba57)
+![IMG_20251023_180845](https://github.com/user-attachments/assets/21613a5f-a9e3-437a-9111-8e9bc08445f2)
 
-**Verification of Norton’s theorem**
-
-IL = IN * RN / ( RN+ RL ) = 2.43mA
-
-Theoretical calculation of IL ,IN and RTh(RN) for the given circuit:
- 
+**OBSERVATION TABLE:**
+![IMG_20251023_180914](https://github.com/user-attachments/assets/96b25650-e958-4f4d-9c63-4e5b3677063c)
 
 
 **RESULT:**
 
 Thus Thevenin’s and Norton’s theorem is verified practically and theoretically.
+
+**MARKS SPLIT-UP**
+![IMG_20251023_181132](https://github.com/user-attachments/assets/57d744bb-d9ab-4230-8c52-485097383113)
+
+
